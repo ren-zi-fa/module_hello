@@ -2,6 +2,6 @@ package module_hello
 
 import "fmt"
 
-func Hello() {
+func Hello() string{
 	return "hello world"
 }
